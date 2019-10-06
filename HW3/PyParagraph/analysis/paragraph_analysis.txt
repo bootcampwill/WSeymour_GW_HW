@@ -1,0 +1,12 @@
+
+      Paragrph Analysis
+
+      ----------
+ 
+      Aproximate Word Count: 130
+
+      Approximate Sentence Count: 5
+
+      Average Letter Count: 6
+
+      Average Sentence Length: 26.0
